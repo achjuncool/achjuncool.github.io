@@ -1,3 +1,3 @@
-# [汉语](localhost:3000/zh-cn)
+# [汉语](https://achjuncool.github.io/zh-cn)
 
-# [English](localhost:3000/en-us)
+# [English](https://achjuncool.github.io/en-us)
