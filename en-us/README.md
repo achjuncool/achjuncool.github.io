@@ -13,6 +13,6 @@ Eat Jiu ( forked from [Eat cat](https://eafoo.github.io/eatcat/)) : [XD](https:/
 Guess numbers ( the codes are copied from CSDN ) : [XD](https://achjuncool.github.io/guessthenumber)
 
 ## Languages:
-汉语：[XD](localhost:3000/zh-cn)
+汉语：[XD](https://achjuncool.github.io/zh-cn)
 
-English: [XD](localhost:3000/en-us)
+English: [XD](https://achjuncool.github.io/en-us)
