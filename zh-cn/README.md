@@ -13,6 +13,6 @@ GitHub：[qwq](https://github.com/achjuncool)
 猜数字（代码是从网上copy的）：[qwq](https://achjuncool.github.io/guessthenumber)
 
 ## 语言：
-汉语：[qwq](localhost:3000/zh-cn)
+汉语：[qwq](https://achjuncool.github.io/zh-cn)
 
-English: [qwq](localhost:3000/en-us)
+English: [qwq](https://achjuncool.github.io/en-us)
